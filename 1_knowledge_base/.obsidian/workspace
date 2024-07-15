@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "60fef41f6259be23",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6cd837d17280ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TOOLS/Workflows/Quarto Websites.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8022c3670aae828e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e824eae08bc9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded4f73da43d0f32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ba3a265dbdf875e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6cc84239dc46c94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c48aee084eb872bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "913c63596040f781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51b68f7412bc576",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9a761491a66b488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOOLS/Workflows/Quarto Websites.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a5403af752ef51c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOOLS/Workflows/Quarto Websites.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d6cd837d17280ff",
+  "lastOpenFiles": [
+    "PEOPLE/PEOPLE.md",
+    "TOOLS/Workflows/Updating R Without lossing your packages.md",
+    "TOOLS/Workflows/Quarto Websites.md",
+    "TOOLS/Workflows/Running Python in R Studio.md"
+  ]
+}
