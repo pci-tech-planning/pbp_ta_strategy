@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md",
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md",
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md"
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md"
               }
             }
           },
@@ -135,8 +135,8 @@
   },
   "active": "3016cfbcf1328d9b",
   "lastOpenFiles": [
-    "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
     "a_knowledge/Water Resources Planning Across Scales.md",
+    "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
     "PLATFORMS/Org_platforms/Org_platforms.md",
     "PEOPLE/PEOPLE.md"
   ]
