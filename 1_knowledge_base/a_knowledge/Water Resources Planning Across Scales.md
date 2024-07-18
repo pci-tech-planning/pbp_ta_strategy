@@ -102,3 +102,36 @@ To effectively manage water resources at these different scales, it is essential
 - **Capacity Demand:** Very High - Requires coordination among state and federal agencies, supported by major engineering firms.
 
 This table now aligns the governance structures, hydrological processes, drought processes, example projects, budget estimates, and capacity demands with the appropriate spatial dimensions and temporal scales, providing a comprehensive view of how different scales of governance and hydrological processes interact in the context of water resources planning.
+
+### Updated table with synthesis from PBP study cases
+
+Here's the updated table incorporating the synthesis of our study cases for the local and intermediate scales, and predictions for the focal, regional, and statewide scales:
+
+| Spatial Level          | Extent             | Hydrological Processes                                                                                                                                                                    | Governance Structure                                                               | Drought Processes                                                       | Project Examples                                                                                                 | Budget Estimate (USD)         | Capacity Demand                                                 |
+| ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------- |
+| **Focal Scale**        | < 1 km²            | Local water extraction, point-source pollution, localized runoff and infiltration                                                                                                         | Individual water users, local governance                                           | Local impacts on groundwater levels, reduced infiltration               | Installation of rainwater harvesting systems                                                                     | $500 - $5,000                 | Low - Local technicians and inspectors                          |
+| **Local Scale**        | 1 - 1000 km²       | Runoff, Streamflow, Groundwater recharge and discharge, Water quality (temperature, pH, dissolved oxygen)                                                                                 | Municipalities, local water boards, conservation districts, watershed councils     | Soil moisture depletion, streamflow reduction                           | Riparian buffer zone implementation, sediment control, floodplain restoration, wetland restoration               | $50,000 - $400,000            | Medium - Local government staff and contractors                 |
+| **Intermediate Scale** | 1000 - 10000 km²   | Annual precipitation, Runoff, Streamflow, Evapotranspiration, Groundwater recharge and discharge, Water quality, Natural hazard impacts (flooding, fire, drought), Climate change impacts | Regional water authorities, watershed councils, state environmental agencies, USGS | Reduced regional streamflow, groundwater recharge impacts               | Basin-wide water allocation, Integrated water resource management, groundwater recharge, streamflow augmentation | $500,000 - $3,200,000         | High - Regional planning and technical teams                    |
+| **Regional Scale**     | 10000 - 100000 km² | Basin-wide water policy, infrastructure development, Basin-wide hydrological cycle impacts, long-term precipitation patterns                                                              | State water agencies, regional planning bodies                                     | Basin-wide hydrological cycle impacts, long-term precipitation patterns | Construction of large-scale reservoirs, inter-basin transfer systems, large-scale flood management               | $50,000,000 - $500,000,000    | Very High - State agencies and large contractors                |
+| **Statewide Scale**    | > 100000 km²       | Statewide water policies, climate change impacts, statewide water balance, climate change impacts on water availability                                                                   | National water governance, state planning agencies                                 | Statewide water balance, climate change impacts on water availability   | Implementation of statewide water management policies, large infrastructure projects                             | $500,000,000 - $5,000,000,000 | Very High - State and federal agencies, major engineering firms |
+The relationship between the median spatial range and the median budget estimate can be visualized as a scatter plot, which helps in understanding how budget estimates scale with spatial ranges.
+
+### Observations:
+
+- **Focal Scale:** Has the smallest spatial extent and budget range, focused on highly localized projects with minimal costs.
+- **Local Scale:** Shows a moderate increase in both spatial extent and budget, covering community-level projects.
+- **Intermediate Scale:** Indicates a further increase in both spatial extent and budget, dealing with regional watershed management and resource allocation.
+- **Regional Scale:** Significantly higher spatial extent and budget, involving basin-wide policies and large infrastructure projects.
+- **Statewide Scale:** The largest spatial extent and budget, encompassing state-level policies and major engineering projects.
+
+### Data Summary:
+
+|Spatial Level|Median Spatial Scale (km²)|Median Budget Estimate (USD)|
+|---|---|---|
+|**Focal Scale**|0.5|2,750|
+|**Local Scale**|378|325,000|
+|**Intermediate Scale**|2,710|1,850,000|
+|**Regional Scale**|50,000|275,000,000|
+|**Statewide Scale**|500,000|2,750,000,000|
+
+These values show a clear exponential relationship between the spatial scale and the budget estimate. As the spatial scale increases, the budget estimate increases significantly, reflecting the complexity and scale of the projects required at each level.
