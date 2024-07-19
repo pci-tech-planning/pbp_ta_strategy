@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b2e3eba14c6c252",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "109531c16e57eb0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "a_knowledge/Water Resources Planning Across Scales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md",
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md"
+                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md"
               }
             }
           },
@@ -133,10 +156,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3016cfbcf1328d9b",
+  "active": "5b2e3eba14c6c252",
   "lastOpenFiles": [
-    "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
     "a_knowledge/Water Resources Planning Across Scales.md",
+    "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
     "PLATFORMS/Org_platforms/Org_platforms.md",
     "PEOPLE/PEOPLE.md"
   ]

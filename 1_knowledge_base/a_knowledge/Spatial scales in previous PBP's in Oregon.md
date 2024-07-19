@@ -82,27 +82,27 @@ The analysis of place-based planning efforts in Oregon aims to understand the de
 ### Relationship between spatial scale and budget
 Here is the updated table including the basin name and the hydrological processes:
 
-|Spatial Scale (km²)|Budget Range (USD)|Basin Name|Hydrological Processes|
-|---|---|---|---|
-|437|150000|Lookingglass Creek/Cabin Creek|Runoff, Streamflow|
-|388|200000|Willow Creek/Indian Creek|Runoff, Streamflow|
-|106|100000|Lower Five Points Creek|Runoff, Streamflow|
-|445|250000|Beaver Creek, Upper Five Points Creek|Runoff, Streamflow|
-|497|300000|Meadow Creek Upper Grande Ronde River|Runoff, Streamflow|
-|369|400000|Ladd Creek Lower Catherine|Runoff, Streamflow|
-|229|350000|Upper Catherine Creek 1|Runoff, Streamflow|
-|160|220000|Upper Catherine Creek 2|Runoff, Streamflow|
-|2712|3200000|Upper Grande Ronde River Watershed|Annual precipitation, Runoff, Streamflow, Evapotranspiration, Groundwater recharge and discharge, Water quality (temperature, pH, dissolved oxygen, sedimentation), Natural hazard impacts (flooding, fire, drought), Climate change impacts|
-|56|150000|Salmon River|Floodplain dynamics, Riparian ecosystem functions|
-|68|50000|Siletz Bay-Ocean Tributaries|Water quality (temperature, pH, dissolved oxygen), Fish migration and spawning|
-|43|115000|Depoe Bay-Ocean Tributaries|Sediment transport, Stormwater runoff|
-|413|225000|Yaquina River|Wetland hydrology, Instream flow|
-|48|75000|Beaver Creek-Ocean Tributaries|Erosion processes, Habitat connectivity (migration corridors, ecosystem linkages)|
-|112|150000|Yachats River|Water storage dynamics, Watershed hydrology (education on hydrological cycle and water conservation)|
-|5220|1250000|Mid-Coast Water Planning Partnership Area|Water allocation (surface and groundwater), Integrated water resource management|
-|2530|550000|Siletz-Yaquina Subbasin|Groundwater recharge, Streamflow regulation|
-|2690|850000|Alsea Subbasin|Fish habitat (spawning, rearing), Floodplain hydrodynamics|
-|1950|500000|Siletz River|Watershed resilience (climate adaptation, disturbance recovery), Riparian buffer establishment|
-|2530|850000|Alsea River|Water quality (long-term trends and improvement), Monitoring of hydrological and ecological parameters|
+| Spatial Scale (km²) | Budget Range (USD) | Basin Name                                | Hydrological Processes                                                                                                                                                                                                                       |
+| ------------------- | ------------------ | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 437                 | 150000             | Lookingglass Creek/Cabin Creek            | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 388                 | 200000             | Willow Creek/Indian Creek                 | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 106                 | 100000             | Lower Five Points Creek                   | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 445                 | 250000             | Beaver Creek, Upper Five Points Creek     | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 497                 | 300000             | Meadow Creek Upper Grande Ronde River     | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 369                 | 400000             | Ladd Creek Lower Catherine                | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 229                 | 350000             | Upper Catherine Creek 1                   | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 160                 | 220000             | Upper Catherine Creek 2                   | Runoff, Streamflow                                                                                                                                                                                                                           |
+| 2712                | 3200000            | Upper Grande Ronde River Watershed        | Annual precipitation, Runoff, Streamflow, Evapotranspiration, Groundwater recharge and discharge, Water quality (temperature, pH, dissolved oxygen, sedimentation), Natural hazard impacts (flooding, fire, drought), Climate change impacts |
+| 56                  | 150000             | Salmon River                              | Floodplain dynamics, Riparian ecosystem functions                                                                                                                                                                                            |
+| 68                  | 50000              | Siletz Bay-Ocean Tributaries              | Water quality (temperature, pH, dissolved oxygen), Fish migration and spawning                                                                                                                                                               |
+| 43                  | 115000             | Depoe Bay-Ocean Tributaries               | Sediment transport, Stormwater runoff                                                                                                                                                                                                        |
+| 413                 | 225000             | Yaquina River                             | Wetland hydrology, Instream flow                                                                                                                                                                                                             |
+| 48                  | 75000              | Beaver Creek-Ocean Tributaries            | Erosion processes, Habitat connectivity (migration corridors, ecosystem linkages)                                                                                                                                                            |
+| 112                 | 150000             | Yachats River                             | Water storage dynamics, Watershed hydrology (education on hydrological cycle and water conservation)                                                                                                                                         |
+| 5220                | 1250000            | Mid-Coast Water Planning Partnership Area | Water allocation (surface and groundwater), Integrated water resource management                                                                                                                                                             |
+| 2530                | 550000             | Siletz-Yaquina Subbasin                   | Groundwater recharge, Streamflow regulation                                                                                                                                                                                                  |
+| 2690                | 850000             | Alsea Subbasin                            | Fish habitat (spawning, rearing), Floodplain hydrodynamics                                                                                                                                                                                   |
+| 1950                | 500000             | Siletz River                              | Watershed resilience (climate adaptation, disturbance recovery), Riparian buffer establishment                                                                                                                                               |
+| 2530                | 850000             | Alsea River                               | Water quality (long-term trends and improvement), Monitoring of hydrological and ecological parameters                                                                                                                                       |
 
 You can now copy and use this data as needed. ​

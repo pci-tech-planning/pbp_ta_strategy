@@ -1,5 +1,6 @@
 [
   "calendar",
   "obsidian-enhancing-export",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-markdown-export-plugin"
 ]
