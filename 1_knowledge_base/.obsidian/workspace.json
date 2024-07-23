@@ -11,8 +11,12 @@
             "id": "a7ed9671d530b27e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md"
+              }
             }
           },
           {
