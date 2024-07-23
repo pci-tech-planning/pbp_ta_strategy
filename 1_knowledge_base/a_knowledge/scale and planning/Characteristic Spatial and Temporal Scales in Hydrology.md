@@ -217,7 +217,7 @@ To ensure that the hydrological processes listed in each cell of the tables are 
 |100 - 1000 km (Macro)|N/A|N/A|N/A|Regional climate adaptation and large-scale water infrastructure projects|Strategic planning for climate resilience and sustainable water resource management|
 |> 1000 km (Mega)|N/A|N/A|N/A|N/A|Developing global water resource management policies and agreements|
 
-### Takeaway Messages on the Role of Characteristic Scales 
+### 10 Takeaway Messages on the Role of Characteristic Scales 
 
 1. **Importance of Understanding Characteristic Scales**: Recognizing the specific spatial and temporal scales at which hydrological processes operate is essential for effective water resources management. It helps in designing appropriate monitoring systems and predictive models.
     
