@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1dec5734f6852329",
+        "id": "877d3fb41939b9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3016cfbcf1328d9b",
+            "id": "a7ed9671d530b27e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b2e3eba14c6c252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af88816195f9cade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harnessing Open Source Data Science Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "109531c16e57eb0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a_knowledge/Water Resources Planning Across Scales.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harnessing Open Source Data Science Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Harnessing Open Source Data Science Tools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +126,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "af88816195f9cade",
+  "active": "a7ed9671d530b27e",
   "lastOpenFiles": [
-    "a_knowledge/Water Resources Planning Across Scales.md",
+    "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
+    "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
+    "a_knowledge/scale and planning/Spatial scales in previous PBP's in Oregon.md",
+    "a_knowledge/scale and planning/OWRD Administrative Basins.md",
+    "b_analyses/scale and planning",
+    "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
+    "a_knowledge/scale and planning",
     "Harnessing Open Source Data Science Tools.md",
-    "a_knowledge/Spatial scales in previous PBP's in Oregon.md",
     "PLATFORMS/Org_platforms/Org_platforms.md",
     "PEOPLE/PEOPLE.md"
   ]
