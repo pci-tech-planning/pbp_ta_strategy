@@ -1,5 +1,11 @@
 {
-  "output": "/Users/guer310/OneDrive - /PNNL/Documents/GitHub/test_export",
-  "attachment": "attachment",
+  "output": "/Users/franciscoj.guerrero/Library/CloudStorage/OneDrive-Oregon/Documents/a_service_areas/1_planning/place_based_planning/PBP TA Strategy/3_production_hub",
+  "attachment": "",
+  "displayImageAsHtml": false,
+  "GFM": true,
+  "fileNameEncode": true,
+  "removeOutgoingLinkBrackets": false,
+  "includeFileName": false,
+  "customFileName": "",
   "GTM": true
 }
