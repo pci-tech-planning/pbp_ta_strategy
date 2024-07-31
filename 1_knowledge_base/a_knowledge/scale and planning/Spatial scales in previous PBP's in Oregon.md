@@ -105,4 +105,3 @@ Here is the updated table including the basin name and the hydrological processe
 | 1950                | 500000             | Siletz River                              | Watershed resilience (climate adaptation, disturbance recovery), Riparian buffer establishment                                                                                                                                               |
 | 2530                | 850000             | Alsea River                               | Water quality (long-term trends and improvement), Monitoring of hydrological and ecological parameters                                                                                                                                       |
 
-You can now copy and use this data as needed. ​
