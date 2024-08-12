@@ -1,26 +1,18 @@
 {
   "main": {
-    "id": "3b454c16079203f6",
+    "id": "52568386c510e06d",
     "type": "split",
     "children": [
       {
-        "id": "877d3fb41939b9b5",
+        "id": "2bab83e8f834c1df",
         "type": "tabs",
         "children": [
           {
-            "id": "c246c6455e3582d4",
+            "id": "dbe2a15f961a48d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
-=======
-                "file": "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5d216a9545994dc7",
+    "id": "51abbbddeedf807f",
     "type": "split",
     "children": [
       {
-        "id": "7d2b363f3f9d80d7",
+        "id": "cf2a46ab3ee720a9",
         "type": "tabs",
         "children": [
           {
-            "id": "93ff0736c0b5ddc2",
+            "id": "f131ed63c5044b48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +39,7 @@
             }
           },
           {
-            "id": "cd87c8394a2888a3",
+            "id": "e91a9b813bc82207",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +54,7 @@
             }
           },
           {
-            "id": "474236ba753ccb4c",
+            "id": "d411c74f6857bafa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,24 +68,27 @@
     "width": 300
   },
   "right": {
-    "id": "86b5c680b626e48b",
+    "id": "248e9699fa6cc792",
     "type": "split",
     "children": [
       {
-        "id": "bb6b0041e4f2da72",
+        "id": "d864846791d044b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f099ae32abfa27f3",
+            "id": "dbc93d006c417c07",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29cab5f6a30005ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
-=======
-                "file": "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,24 +100,10 @@
             }
           },
           {
-            "id": "7b7ed2fb6b30414c",
+            "id": "28ffb5039780462d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md"
-=======
-                "file": "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md"
->>>>>>> Stashed changes
-              }
-            }
-          },
-          {
-            "id": "3845a3dea25730cc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -145,23 +126,6 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c246c6455e3582d4",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-=======
-    "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
-    "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
-    "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
->>>>>>> Stashed changes
-    "a_knowledge/scale and planning/Spatial scales in previous PBP's in Oregon.md",
-    "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
-    "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
-    "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
-    "a_knowledge/scale and planning/OWRD Administrative Basins.md",
-    "b_analyses/scale and planning",
-    "a_knowledge/scale and planning",
-    "Harnessing Open Source Data Science Tools.md",
-    "PLATFORMS/Org_platforms/Org_platforms.md",
-    "PEOPLE/PEOPLE.md"
-  ]
+  "active": "f131ed63c5044b48",
+  "lastOpenFiles": []
 }
