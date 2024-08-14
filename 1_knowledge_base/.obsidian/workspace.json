@@ -11,8 +11,17 @@
             "id": "dbe2a15f961a48d2",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -89,6 +98,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +117,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
+=======
+              "state": {
+                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md"
+              }
+            }
+          },
+          {
+            "id": "3845a3dea25730cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+>>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -126,6 +152,22 @@
       "publish:Publish changes...": false
     }
   },
+<<<<<<< Updated upstream
   "active": "f131ed63c5044b48",
   "lastOpenFiles": []
+=======
+  "active": "c246c6455e3582d4",
+  "lastOpenFiles": [
+    "a_knowledge/scale and planning/Spatial scales in previous PBP's in Oregon.md",
+    "a_knowledge/scale and planning/OWRD Administrative Basins.md",
+    "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
+    "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
+    "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
+    "b_analyses/scale and planning",
+    "a_knowledge/scale and planning",
+    "Harnessing Open Source Data Science Tools.md",
+    "PLATFORMS/Org_platforms/Org_platforms.md",
+    "PEOPLE/PEOPLE.md"
+  ]
+>>>>>>> Stashed changes
 }
