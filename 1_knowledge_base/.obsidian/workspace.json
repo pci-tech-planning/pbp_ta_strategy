@@ -1,27 +1,18 @@
 {
   "main": {
-    "id": "52568386c510e06d",
+    "id": "a0d97d543b07e3b2",
     "type": "split",
     "children": [
       {
-        "id": "2bab83e8f834c1df",
+        "id": "6e8bdb07ab8a7620",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe2a15f961a48d2",
+            "id": "bdf825d7a4774287",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
               "type": "empty",
               "state": {}
-=======
-              "type": "markdown",
-              "state": {
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -30,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51abbbddeedf807f",
+    "id": "40ea6e369d298959",
     "type": "split",
     "children": [
       {
-        "id": "cf2a46ab3ee720a9",
+        "id": "e942f54ae53742ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f131ed63c5044b48",
+            "id": "71b13775e46e1fd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +39,7 @@
             }
           },
           {
-            "id": "e91a9b813bc82207",
+            "id": "da1d42b4b00f5e69",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +54,7 @@
             }
           },
           {
-            "id": "d411c74f6857bafa",
+            "id": "2c760dd1fa5d5b9a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "248e9699fa6cc792",
+    "id": "e013ba93d824be82",
     "type": "split",
     "children": [
       {
-        "id": "d864846791d044b5",
+        "id": "83bb8c874258b5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc93d006c417c07",
+            "id": "43b9f4e11c2b33ef",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,15 +84,11 @@
             }
           },
           {
-            "id": "29cab5f6a30005ac",
+            "id": "fd1d107f1c8205b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,23 +100,10 @@
             }
           },
           {
-            "id": "28ffb5039780462d",
+            "id": "8c1dadf9b0b7999a",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-=======
-              "state": {
-                "file": "a_knowledge/scale and planning/Water Resources Planning Across Scales.md"
-              }
-            }
-          },
-          {
-            "id": "3845a3dea25730cc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
->>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -152,22 +126,6 @@
       "publish:Publish changes...": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "f131ed63c5044b48",
+  "active": "71b13775e46e1fd3",
   "lastOpenFiles": []
-=======
-  "active": "c246c6455e3582d4",
-  "lastOpenFiles": [
-    "a_knowledge/scale and planning/Spatial scales in previous PBP's in Oregon.md",
-    "a_knowledge/scale and planning/OWRD Administrative Basins.md",
-    "a_knowledge/scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
-    "a_knowledge/scale and planning/Water Resources Planning Across Scales.md",
-    "b_analyses/scale and planning/Spatial scales in Place-Based-Planning.md",
-    "b_analyses/scale and planning",
-    "a_knowledge/scale and planning",
-    "Harnessing Open Source Data Science Tools.md",
-    "PLATFORMS/Org_platforms/Org_platforms.md",
-    "PEOPLE/PEOPLE.md"
-  ]
->>>>>>> Stashed changes
 }
