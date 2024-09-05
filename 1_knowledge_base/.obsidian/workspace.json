@@ -11,8 +11,12 @@
             "id": "bdf825d7a4774287",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +109,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md"
+              }
+            }
+          },
+          {
+            "id": "80b78135213259e0",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,9 +138,30 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "71b13775e46e1fd3",
-  "lastOpenFiles": []
+  "active": "bdf825d7a4774287",
+  "lastOpenFiles": [
+    "01_Notes/b_hydrological_processes/Hydrological Processes Generating Water Supply.md",
+    "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
+    "01_Notes/b_hydrological_processes/b_hydrological_processes.md",
+    "01_Notes/01_Notes.md",
+    "06_Reflections/06_Reflections.md",
+    "05_Engagement/05_Engagement.md",
+    "4_Docs.md",
+    "03_Drafts/03_Drafts.md",
+    "02_Analyses/02_Analyses.md",
+    "04_Docs/04_Docs.md",
+    "01_Notes/a_scale and planning/a_scale and planning.md",
+    "01_Notes/b_hydrological_processes",
+    "02_Analyses/a_spatial_scales/Spatial scales in Place-Based-Planning.md",
+    "02_Analyses/Untitled",
+    "01_Notes/a_scale and planning/Water Resources Planning Across Scales.md",
+    "03_Drafts/00_about_drafts.md",
+    "01_Notes/a_scale and planning/Characteristic Spatial and Temporal Scales in Hydrology.md",
+    "01_Notes/a_scale and planning/Spatial scales in previous PBP's in Oregon.md",
+    "06_Reflections"
+  ]
 }

@@ -1,5 +1,7 @@
 [
   "calendar",
   "obsidian-markdown-export-plugin",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "folder-note-plugin",
+  "pomodoro-timer"
 ]

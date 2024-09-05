@@ -1,0 +1,3 @@
+# b_hydrological_processes 
+
+In this conversation, we explored the distinction between hydrological processes that generate water supplies and the concept of water supply itself. Initially, key hydrological processes such as precipitation, infiltration, runoff, and groundwater recharge were identified as the fundamental mechanisms through which water is made available within the Earth's system. These processes contribute to the movement and storage of water in various forms, including surface water and groundwater.
