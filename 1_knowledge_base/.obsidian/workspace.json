@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
+                "file": "01_Notes/a_scale and planning/a_scale and planning.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "a_scale and planning"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
+                "file": "01_Notes/a_scale and planning/a_scale and planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for a_scale and planning"
             }
           },
           {
@@ -110,8 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md"
-              }
+                "file": "01_Notes/a_scale and planning/a_scale and planning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of a_scale and planning"
             }
           },
           {
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {}
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -144,18 +164,19 @@
   },
   "active": "bdf825d7a4774287",
   "lastOpenFiles": [
+    "01_Notes/a_scale and planning/OWRD Administrative Basins.md",
+    "01_Notes/b_hydrological_processes/Hydrological Processes Generating Water Supply.md",
+    "02_Analyses/a_spatial_scales/Spatial scales in Place-Based-Planning.md",
+    "03_Drafts/03_Drafts.md",
+    "01_Notes/a_scale and planning/a_scale and planning.md",
+    "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
     "01_Notes/01_Notes.md",
     "05_Engagement/05_Engagement.md",
     "04_Docs/04_Docs.md",
-    "03_Drafts/03_Drafts.md",
-    "02_Analyses/a_spatial_scales/Spatial scales in Place-Based-Planning.md",
     "02_Analyses/02_Analyses.md",
-    "01_Notes/b_hydrological_processes/Colorado River Hydroclimatology.md",
-    "01_Notes/b_hydrological_processes/Hydrological Processes Generating Water Supply.md",
     "01_Notes/b_hydrological_processes/b_hydrological_processes.md",
     "06_Reflections/06_Reflections.md",
     "4_Docs.md",
-    "01_Notes/a_scale and planning/a_scale and planning.md",
     "01_Notes/b_hydrological_processes",
     "02_Analyses/Untitled",
     "01_Notes/a_scale and planning/Water Resources Planning Across Scales.md",
